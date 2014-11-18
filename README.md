@@ -1,5 +1,7 @@
 test
 ====
-<title>Title</title>
 <i>hallo</i>
-test
+
+spalte1 | spalte2
+--------|--------
+zeile1  | zeile1
